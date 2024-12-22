@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: '服务监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
+      text: 'Blog',
+      url: 'https://115411.xyz'
     },
     {
-      text: '博客',
-      url: 'https://blog.qikaile.tk'
+      text: '服务监测',
+      url: 'https://fuwu.115411.xyz'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/kingdomes'
     },
   ],
 };
